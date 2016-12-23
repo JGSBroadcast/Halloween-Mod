@@ -1,0 +1,18 @@
+item.candycorn.name=Candy Corn
+item.metalrod.name=Metal Rod
+item.scythe.name=Scythe
+item.creeper_chestplate.name=Creeper Chestplate
+item.creeper_leggings.name=Creeper Leggings
+item.creeper_boots.name=Creeper Boots
+item.skeleton_chestplate.name=Skeleton Chestplate
+item.skeleton_leggings.name=Skeleton Leggings
+item.skeleton_boots.name=Skeleton Boots
+item.zombie_chestplate.name=Zombie Chestplate
+item.zombie_leggings.name=Zombie Leggings
+item.zombie_boots.name=Zombie Boots
+
+itemGroup.costumes=Costumes
+
+entity.jgsbshalloweenmod.ghost.name=Ghost
+entity.jgsbshalloweenmod.grimreaper.name=Grim Reaper
+entity.jgsbshalloweenmod.frankenstein.name=Frankenstein

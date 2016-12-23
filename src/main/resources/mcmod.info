@@ -1,0 +1,17 @@
+[
+{
+  "modid": "jgsbshalloweenmod",
+  "name": "JGSB's Halloween Mod",
+  "description": "Make your minecraft spooky for Halloween.",
+  "version": "1.0",
+  "mcversion": "1.9.4",
+  "logoFile": "",
+  "url": "http://bit.ly/jgsbshalloweenmod",
+  "updateUrl": "",
+  "authors": ["JGSBroadcast"],
+  "credits": "Made by JGSBroadcast",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
